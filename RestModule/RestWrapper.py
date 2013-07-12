@@ -1,5 +1,4 @@
-import urllib2, urllib
-import re, urlparse, json
+import urllib2, json
 
 base_url = "HTTP LOCATION OF YOUR WEBSERVICE API"
 
